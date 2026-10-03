@@ -81,6 +81,11 @@ This repository is structured as a progressive technical leadership interview co
 - **[Interview_Design_Patterns](https://github.com/BrendanJamesLynskey/Interview_Design_Patterns)** — Design patterns and SOLID principles
 - **[Interview_Observability_SRE](https://github.com/BrendanJamesLynskey/Interview_Observability_SRE)** — Observability, SRE, and production readiness
 
+## Related Repositories
+
+- **[Jira and Engineering Metrics](https://brendanjameslynskey.github.io/SimEng_08_Jira_and_Engineering_Metrics/)** — the issue model, workflows, JQL, traceability, flow metrics and evidence for sign-off, for a simulation team ([Simulation Engineering Toolkit](https://github.com/BrendanJamesLynskey/SimEng_Hub_Toolkit))
+- **[Specifications, Requirements and Test Plans](https://brendanjameslynskey.github.io/SimEng_09_Specs_Requirements_Test_Plans/)** — requirement quality, EARS, mission-mode software, traceability and worked templates ([Simulation Engineering Toolkit](https://github.com/BrendanJamesLynskey/SimEng_Hub_Toolkit))
+
 ## Contributing
 
 Contributions are welcome. Please ensure:
